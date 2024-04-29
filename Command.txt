@@ -1,0 +1,4 @@
+C -> DLL  g++ -shared -o {output-dll-name} {source-code}
+C -> EXE  g++ -o {output-exe-name} {source-code}
+
+gcc Discord.c -o Discord.exe -lcurl

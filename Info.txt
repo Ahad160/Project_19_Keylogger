@@ -1,0 +1,2 @@
+Applcation - Microsoft Edge
+Path - C:\Program Files (x86)\Microsoft\Edge\Application\d3d11.dll
